@@ -17,7 +17,9 @@ URL to docs: http://cocoadocs.org/docsets/DateToolsSwift/2.0.0/index.html
     print(birthday.format(with: .full))
     let chunk = now.chunkBetween(date: birthday)
     print(chunk)
-     
+    
+    CONSOLE:
+    ========
     time ago 2 days ago
     time ago 2d
     2 days ago was Nov 10, 2019
