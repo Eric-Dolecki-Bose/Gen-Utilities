@@ -43,3 +43,9 @@ I found this Scale conversion repository recently, and it looks decent. It could
 A fan favorite - SwiftyJSON makes it easy to deal with JSON data in Swift.
 
   - https://github.com/SwiftyJSON/SwiftyJSON
+
+### Material Design for iOS
+
+Typically I don't like getting away from Apple components since users expect them. I am including the Material Design for iOS just in case someone wants that type of UX. Again, prefer known elements and UX ahead of another company's take on it, but some of the elements might be useful and can be included without the entire MD component collection.
+
+  - https://material.io/develop/ios/
