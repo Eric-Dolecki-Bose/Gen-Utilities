@@ -26,10 +26,20 @@ URL to docs: http://cocoadocs.org/docsets/DateToolsSwift/2.0.0/index.html
     Saturday, March 28, 2020
     TimeChunk(seconds: 36, minutes: 59, hours: 4, days: 16, weeks: 0, months: 4, years: 0)
 
-I found something called **SwiftDate** that looks like it has a ton of nice Date functionality. 
+### SwiftDate
 
-https://github.com/malcommac/SwiftDate
+I found something called SwiftDate that looks like it has a ton of nice Date functionality. 
 
-I found this **Scale** conversion repository recently, and it looks decent. It could be included here, but looks like it benefits greatly from cocoapods installation, which complicates this repository. So I am including the URL here for you in case you might have need of it's use. Or perhaps write/find another that can just have files included.
+  - https://github.com/malcommac/SwiftDate
 
-https://github.com/onmyway133/Scale
+### Scale
+
+I found this Scale conversion repository recently, and it looks decent. It could be included here, but looks like it benefits greatly from cocoapods installation, which complicates this repository. So I am including the URL here for you in case you might have need of it's use. Or perhaps write/find another that can just have files included.
+
+  - https://github.com/onmyway133/Scale
+ 
+### SwiftyJSON
+
+A fan favorite - SwiftyJSON makes it easy to deal with JSON data in Swift.
+
+  - https://github.com/SwiftyJSON/SwiftyJSON
