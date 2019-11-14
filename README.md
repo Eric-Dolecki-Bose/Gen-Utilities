@@ -28,6 +28,12 @@ URL to docs: http://cocoadocs.org/docsets/DateToolsSwift/2.0.0/index.html
 
 ## Not Included (but considering):
 
+### MarqueeLabel
+
+Drop in replacement for UILabel when your text contents might not fit into a label's available width, so you will get scrolling (which you can affect). 
+
+  - https://github.com/cbpowell/MarqueeLabel
+
 ### SwiftDate
 
 I found something called SwiftDate that looks like it has a ton of nice Date functionality. 
